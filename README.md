@@ -1,6 +1,8 @@
 # Heart Failure Mortality Prediction
 
-<!-- Uploading "heart-failure-mortality-prediction.webm"... -->
+<video src="heart-failure-mortality-prediction.webm" controls="controls" style="max-width: 100%;">
+  Your browser does not support the video tag.
+</video>
 
 A complete machine learning project: exploratory analysis and model comparison in a notebook, a reusable training pipeline, and a local web dashboard for live, per-patient mortality risk predictions.
 
