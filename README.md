@@ -1,6 +1,7 @@
 # Heart Failure Mortality Prediction
 
-Eߣ�B��B��B�B�B��matroskaB��B��S�g�������I�f�*ױ�B@M��ChromeWA�ChromeT�k���ׁsŇT�KIV����V_MPEG4/ISO/AVC��������U��U��U��U��U��C�u��������
+<video src="heart-failure-mortality-prediction.webm" controls="controls" style="max-width: 100%;">
+</video>
 
 A complete machine learning project: exploratory analysis and model comparison in a notebook, a reusable training pipeline, and a local web dashboard for live, per-patient mortality risk predictions.
 
