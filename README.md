@@ -1,8 +1,10 @@
 # Heart Failure Mortality Prediction
 
-<video src="https://raw.githubusercontent.com/pkhaliada-rgb/heart-failure-mortality-prediction-2-/main/heart-failure-mortality-prediction.webm" width="100%" controls autoplay loop muted></video>
+[heart-failure-mortality-prediction.webm](https://github.com/user-attachments/assets/21c10b24-2c9e-4c6f-b9d3-a99cd6e17297)
 
-A complete machine learning project: exploratory analysis and model comparison in a notebook, a reusable training pipeline, and a local web dashboard for live, per-patient mortality risk predictions.
+
+A complete machine learning project: exploratory analysis and model comparison in a notebook, a reusable training pipeline, and a local web dashboard for live, per-patient mortality risk 
+predictions.
 
 Predicts whether a heart failure patient is likely to survive or die during their follow-up period, using 12 clinical features recorded at diagnosis — from the real [Heart Failure Clinical Records dataset](https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records) (Ahmad et al., 2017; 299 patients).
 
