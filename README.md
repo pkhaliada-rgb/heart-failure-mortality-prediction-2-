@@ -1,9 +1,6 @@
-<p align="center">
-  <!-- Add your logo at dashboard/static/logo.png and docs/logo.png to have it appear -->
-  <img src="dashboard/static/logo.png" alt="Project logo" height="60" onerror="this.style.display='none'">
-</p>
-
 # Heart Failure Mortality Prediction
+
+<!-- Uploading "heart-failure-mortality-prediction.webm"... -->
 
 A complete machine learning project: exploratory analysis and model comparison in a notebook, a reusable training pipeline, and a local web dashboard for live, per-patient mortality risk predictions.
 
